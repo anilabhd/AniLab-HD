@@ -1,7 +1,7 @@
 # AniLab-HD
 <div align="center">
-
-<img src="./dark_mode_2.svg" alt="Anilab GitHub Profile" width="100%" />
+  <img src="./anilab-profile.svg" alt="Anilab GitHub Profile" width="100%">
+</div>
 
 # Anilab
 
