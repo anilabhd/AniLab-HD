@@ -1,7 +1,3 @@
 # AniLab-HD
 My Best Professional Profile
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="anilabhd's GitHub profile" src="dark_mode.svg" />
-</picture>
+https://res.cloudinary.com/urq8xooj/image/upload/f_auto,q_auto/ChatGPT_Image_Sep_9_2026_12_28_43_PM_1
