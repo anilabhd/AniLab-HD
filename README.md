@@ -33,6 +33,6 @@ We focus on creating engaging digital experiences, anime-focused content, and re
 
 🌐 Website: https://www.anilabhd.com/  
 🎨 Pinterest: (https://www.pinterest.com/anilabhd/)
-▶️ YouTube: [YOUR_LINK](http://www.youtube.com/@AniLabHD)  
-𝕏 X: [YOUR_LINK  ](https://x.com/AniLabHD)
-📘 Facebook: [YOUR_LINK](https://www.facebook.com/AniLabHD)
+▶️ YouTube: [AniLab HD](http://www.youtube.com/@AniLabHD)  
+𝕏 X: [AniLab HD](https://x.com/AniLabHD)
+📘 Facebook: [AniLab HD](https://www.facebook.com/AniLabHD)
